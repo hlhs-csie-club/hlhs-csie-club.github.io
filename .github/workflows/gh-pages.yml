@@ -37,7 +37,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && hugo --minify
+        run: npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
