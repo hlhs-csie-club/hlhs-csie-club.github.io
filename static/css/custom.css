@@ -1,0 +1,14 @@
+/*
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+
+body {
+    background-color: rgb(21, 29, 35);
+    color: beige;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.mopen span {
+    background: #fffee5;
+}

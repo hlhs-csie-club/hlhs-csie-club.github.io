@@ -1,0 +1,18 @@
+[
+	{
+		"title": "Programming Sessions",
+		"description": "Club members can acquire various concepts of computer science, alongside with hand-on experience.",
+		"icon": "code_blocks"
+	},
+	{
+		"title": "Competitive Programming",
+		"description": "Participating in programming contests enables you to finish tasks under certain time and pressure.",
+		"icon": "swords"
+	},
+	{
+		"title": "Webdev 101",
+		"description": "With the help from upperclassmen, a considerable amount of web development knowledge is open to you.",
+		"icon": "web",
+		"link": "https://github.com/hlhs-csie-club"
+	}
+]

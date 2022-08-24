@@ -1,0 +1,18 @@
+[
+	{
+		"title": "漸進式程式設計",
+		"description": "帶領社員們掌握電腦思維，在資訊時代能夠掌握一技之長。",
+		"icon": "code_blocks"
+	},
+	{
+		"title": "定期參加程式競賽",
+		"description": "與高手們一同切磋，培養實戰經驗。",
+		"icon": "swords"
+	},
+	{
+		"title": "網頁設計101",
+		"description": "由社團學長們手把手教學，網頁設計輕鬆過！",
+		"icon": "web",
+		"link": "https://github.com/hlhs-csie-club"
+	}
+]
