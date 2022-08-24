@@ -1,18 +1,19 @@
 [
 	{
-		"title": "花中資研社 卓越發展第一選擇",
+		"title": "花中資研社-卓越發展第一選擇",
 		"image": "/img/slide/slide01.jpg"
 	},
 	{
-		"title": "舉辦研習活動 引導適性發展",
+		"title": "舉辦研習活動-引導適性發展",
 		"image": "/img/slide/slide02.jpg"
 	},
 	{
-		"title": "",
-		"image": "/img/slide/slide03.jpg"
+		"title": "上機編碼-獲得實作經驗",
+		"image": "/img/slide/slide03.jpg",
+		"color": "text-gray-200"
 	},
 	{
-		"title": "",
+		"title": "概念理解-演算法、架構更上一層樓",
 		"image": "/img/slide/slide04.jpg"
 	}
 ]

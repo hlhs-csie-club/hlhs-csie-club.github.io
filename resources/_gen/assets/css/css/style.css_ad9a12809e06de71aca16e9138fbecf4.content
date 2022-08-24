@@ -2151,7 +2151,7 @@ video {
 
 body {
   background-color: rgb(21, 29, 35);
-  color: beige;
+  /* color: beige; */
   font-family: 'Noto Sans TC', sans-serif;
 }
 
