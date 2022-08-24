@@ -1,25 +1,29 @@
 +++
-title = "asdf"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "關於花中資研社"
+description = "花中資研社"
+date = "2022-08-24"
+aliases = ["about-us", "contact"]
+author = "花中資研社管理者"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## １．先輩努力
 
-Hugo makes use of a variety of open source projects including:
+資研社之前身已不可考究，但經温健順老師(以下簡稱温老師)口述說明，資研社前身是由各屆數理班學長主持進行，卻因不明原因於數年前解散，自此資研社便無後繼，故花中之資訊研究及學習領域止步數年。直到中興前一屆才由林奕廷、吳庭安帶領之數理班學長重新創社，並定名花中資訊研究社，但主要幹部仍然由數理班主持。
 
-* <https://github.com/yuin/goldmark>
-* <https://github.com/alecthomas/chroma>
-* <https://github.com/muesli/smartcrop>
-* <https://github.com/spf13/cobra>
-* <https://github.com/spf13/viper>
+## ２．資研中興
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+2020年，温老師有感於花中資訊研究及學習進展緩慢，是為中衰之勢，故招募四名資研社社員分別為當時101班之黃俊翔、楊成凱、潘威仰及108之廖顯文，於圖書館二樓討論室、科學館資訊研究室進行游擊式小班教授，而後隨著資研社社員加入，也讓這個小團體持續擴編。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## ３．資研新元屆
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+隨著林奕廷、吳庭安等前任幹部卸任，以潘威仰、黃俊翔、楊成凱及廖顯文為首之資研社新幹部旋即上任，而原先的小團體之指揮也與社團合流。上任後隨即面臨的不單是原先的學習事務，而是其餘諸如社團招生、社課安排及授課。雖然這些對於毫無經驗的新任幹部們是一大挑戰，卻在老師指導及各幹部努力籌備下，有不錯的結果，而這些經驗也將傳承予學弟，是為資研中興。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 4．第六屆資研社(現任資研社主要幹部)
+
+2022年，資研社推選出以下所列出之幹部名單，作為第六屆資研社的領導幹部。
+
+- 社長：鄭安成
+- 副社長：劉庭瑋
+- 課務：陳奎亨
+- 公關：林一帆
+- 文書：謝寶怡、張帛官
